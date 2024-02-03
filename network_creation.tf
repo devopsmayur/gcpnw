@@ -1,7 +1,7 @@
 # network_creation.tf
 
 provider "google" {
-  project     = "your-gcp-project-id"
+  project     = "hc-29a5d1b2591a4011824f3071b35"
   region      = "us-central1"
 }
 
