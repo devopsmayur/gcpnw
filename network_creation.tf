@@ -1,7 +1,7 @@
 # network_creation.tf
 
 provider "google" {
-  project     = "hc-b98aa1c291264499959d26e6e1a"
+  project     = "hc-2b6b12a0d1a54455ab3af0925b7"
   region      = "us-central1"
 }
 
