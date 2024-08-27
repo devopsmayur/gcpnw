@@ -6,7 +6,7 @@ provider "google" {
 }
 
 resource "google_compute_network" "my_network" {
-  name                    = "mayur1"
+  name                    = "mayu"
   auto_create_subnetworks = true
 }
 
