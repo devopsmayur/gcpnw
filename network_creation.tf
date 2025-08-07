@@ -8,6 +8,7 @@ provider "google" {
 resource "google_compute_network" "my_network" {
   name                    = "mayur1"
   auto_create_subnetworks = true
+  routing_mode            = "GLOBAL"
 }
 
 # Output the network information
